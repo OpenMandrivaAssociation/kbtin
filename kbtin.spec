@@ -1,6 +1,6 @@
 %define name    kbtin
 %define version 1.0.13
-%define release %mkrel 1
+%define release %mkrel 2
 
 Name:           %{name}
 Summary:        A very heavily extended clone the TinTin++ MUD client
