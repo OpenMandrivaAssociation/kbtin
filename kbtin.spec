@@ -41,3 +41,14 @@ rm -rf %{buildroot}
 %{_mandir}/*/*
 %{_bindir}/*
 %{_datadir}/%name/*
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.0.13-2mdv2011.0
++ Revision: 619896
+- the mass rebuild of 2010.0 packages
+
+* Sat Oct 24 2009 Samuel Verschelde <stormi@mandriva.org> 1.0.13-1mdv2010.0
++ Revision: 459175
+- import kbtin
+
