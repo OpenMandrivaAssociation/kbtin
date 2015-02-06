@@ -1,6 +1,6 @@
 Name:		kbtin
 Version:	1.0.14
-Release:	1
+Release:	2
 Summary:	A very heavily extended clone the TinTin++ MUD client
 Group:		Games/Other
 License:	GPLv2+
