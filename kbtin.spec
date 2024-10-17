@@ -4,7 +4,7 @@ Release:	1
 Summary:	A very heavily extended clone the TinTin++ MUD client
 Group:		Games/Other
 License:	GPLv2+
-URL:		http://kbtin.sourceforge.net/
+URL:		https://kbtin.sourceforge.net/
 Source0:	http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.xz
 BuildRequires:	pkgconfig(gnutls)
 BuildRequires:	pkgconfig(zlib)
