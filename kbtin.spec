@@ -6,6 +6,11 @@ Group:		Games/Other
 License:	GPLv2+
 URL:		https://kbtin.sourceforge.net/
 Source0:	http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.tar.xz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(gnutls)
 BuildRequires:	pkgconfig(zlib)
 
